@@ -1,0 +1,113 @@
+14 7
+0
+a S5
+c e
+f S3
+$ e
+A e
+C e
+S 1
+1
+a S2
+c e
+f e
+$ F
+A e
+C e
+S e
+2
+a e
+c S4
+f e
+$ e
+A 8
+C e
+S e
+3
+a R2
+c e
+f e
+$ R2
+A e
+C e
+S e
+4
+a e
+c e
+f S10
+$ e
+A e
+C e
+S e
+5
+a e
+c S4
+f e
+$ e
+A 6
+C e
+S e
+6
+a e
+c S7
+f e
+$ e
+A e
+C e
+S e
+7
+a R3
+c e
+f e
+$ R3
+A e
+C e
+S e
+8
+a e
+c S9
+f e
+$ e
+A e
+C e
+S e
+9
+a R1
+c e
+f e
+$ R1
+A e
+C e
+S e
+10
+a S12
+c R5
+f e
+$ e
+A e
+C 11
+S e
+11
+a e
+c R4
+f e
+$ e
+A e
+C e
+S e
+12
+a S12
+c R7
+f e
+$ e
+A e
+C 13
+S e
+13
+a e
+c R6
+f e
+$ e
+A e
+C e
+S e
